@@ -12,8 +12,9 @@ Simple tool to disconnect the programming lines after completion for use with ST
  
 ## Operation
  * All signal lines from programmer to the device can be disconnected with the relay
- * 5V supply from Otii or Nucleo are usef for relays (user selectable with 2.54mm header and jumper)
+ * 5V supply from Otii or Nucleo are used for relays (user selectable with 2.54mm header and jumper)
  * UART TX/RX can be connected to Otii or Nucleo (user selectable with 2.54mm header and jumper)
  * Relays are controlled by either Otii GPO or Nucleo 5V being present (user selectable with 2.54mm header and jumper)
+ * Separate GPO channel is used for TX/RX relay - sometimes we want this turned on during testing
  * Relays have a bypass option with a solder jumper
  
