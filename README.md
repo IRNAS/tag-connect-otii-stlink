@@ -9,6 +9,7 @@ Simple tool to disconnect the programming lines after completion for use with ST
  * 5V signal relays on all connections from programmer to tag-connect, for example https://si.farnell.com/omron/g5v-2-4-5dc/relay-signal-dpdt-30vdc-2a/dp/9949810?st=signal%20relay
  * IDC connector for Otii power analyser
  * Status LED showing what state this is in
+ * IDC connector comaptible with ST-LINK v2
  
 ## Operation
  * All signal lines from programmer to the device can be disconnected with the relay
