@@ -18,4 +18,8 @@ Simple tool to disconnect the programming lines after completion for use with ST
  * Relays are controlled by either Otii GPO or Nucleo 5V being present (user selectable with 2.54mm header and jumper)
  * Separate GPO channel is used for TX/RX relay - sometimes we want this turned on during testing
  * Relays have a bypass option with a solder jumper
- 
+
+# PCB specifications:
+ * Device dimensions: 76x70 mm  
+ * PCB thickness: 1.6mm
+<img src="https://github.com/sakalaka8/tag-connect-otii-stlink/blob/master/4_DOC/pcb_top.png" height="400">	<img src="https://github.com/sakalaka8/tag-connect-otii-stlink/blob/master/4_DOC/pcb_angle.png" height="400">
