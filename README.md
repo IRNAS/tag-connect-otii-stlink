@@ -1,6 +1,6 @@
 # tag-connect-otii-stlink
 Simple tool to disconnect the programming lines after completion for use with ST-Link broken out fo a discovery board with Otii power analyser and tag connect cable
-
+<img src="https://github.com/sakalaka8/tag-connect-otii-stlink/blob/master/4_DOC/otii_tool_2.jpg" height"500">
 ## Circuit board requirements
  * Shield that sits on top of the ST nucleo board programming part broken off: https://jeelabs.org/book/1547a/
  * 2x connector for Tag Connect cable
